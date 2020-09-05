@@ -1,0 +1,4 @@
+*.json
+export-ghost
+vendor/
+ghost.db
